@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66f03128003537105565849b_5231d375-33b8-4092-84d5-6ccd8db18a8a",
-  "id": "Page1_Api1",
+  "id": "Page1_Api1oooo",
   "pluginId": "Anthropic",
   "pluginType": "AI",
   "unpublishedAction": {
@@ -34,7 +34,7 @@
     },
     "dynamicBindingPathList": [],
     "executeOnLoad": false,
-    "name": "Api1",
+    "name": "Api1oooo",
     "pageId": "Page1",
     "userSetOnLoad": false
   }
