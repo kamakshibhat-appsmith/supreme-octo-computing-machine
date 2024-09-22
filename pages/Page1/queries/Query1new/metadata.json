@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66f031de0035371055658539_bd3ccd4e-98ed-4663-9438-37b4a361f1be",
-  "id": "Page1_Query1",
+  "id": "Page1_Query1new",
   "pluginId": "Appsmith AI",
   "pluginType": "AI",
   "unpublishedAction": {
@@ -60,7 +60,7 @@
       "pluginId": "Appsmith AI"
     },
     "executeOnLoad": false,
-    "name": "Query1",
+    "name": "Query1new",
     "pageId": "Page1",
     "userSetOnLoad": false
   }

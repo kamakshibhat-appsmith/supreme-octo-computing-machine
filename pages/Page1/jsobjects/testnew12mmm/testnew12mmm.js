@@ -4,7 +4,7 @@ export default {
 	myFun1 () {
 		//	write code here
 		//	this.myVar1 = [1,2,3]
-		return 1
+		return Query1new.run()
 	},
 	async myFun2 () {
 		//	use async-await or promises
