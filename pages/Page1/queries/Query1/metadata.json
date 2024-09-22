@@ -1,5 +1,5 @@
 {
-  "gitSyncId": "66f031de0035371055658539_ffff7ae8-8fd1-411a-a82e-defcc18584f3",
+  "gitSyncId": "66f031de0035371055658539_eb18e807-0aa8-4bc2-9cf8-2b5317d3190a",
   "id": "Page1_Query1",
   "pluginId": "Appsmith AI",
   "pluginType": "AI",
@@ -37,7 +37,7 @@
         },
         "textGeneration": {
           "input": {
-            "data": ""
+            "data": "l"
           }
         },
         "textSummary": {
@@ -59,6 +59,7 @@
       "name": "Untitled datasource 1",
       "pluginId": "Appsmith AI"
     },
+    "dynamicBindingPathList": [],
     "executeOnLoad": false,
     "name": "Query1",
     "pageId": "Page1",
